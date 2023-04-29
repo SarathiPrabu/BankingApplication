@@ -1,3 +1,2 @@
 # BankingSolution
-
-This project is created to complete a simple database assignment for my course. The Visual Studio IDE is fun to work and planning to continue this project and improvise this time to time. This is my first project uploaded in GitHub. 
+This project has been created to complete a database assignment for my course. I chose to use the Visual Studio IDE to work on it as I find it fun and easy to use. I plan on continuing to work on this project and improve it over time. This is my first project to be uploaded to GitHub, and I am excited to see how it turns out. I look forward to learning new things and gaining valuable experience from this project.
